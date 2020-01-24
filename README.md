@@ -12,4 +12,4 @@ O heapsort utiliza uma estrutura de dados chamada heap, para ordenar os elemento
 A heap pode ser representada como uma árvore (uma árvore binária com propriedades especiais) ou como um vetor. Para uma ordenação decrescente, deve ser construída uma heap mínima (o menor elemento fica na raiz). Para uma ordenação crescente, deve ser construído uma heap máxima (o maior elemento fica na raiz).
 
 
-Fonte: https://pt.wikipedia.org/wiki/Heapsort
+Fontes: https://pt.wikipedia.org/wiki/Heapsort | https://www.geeksforgeeks.org/java-program-for-heap-sort/
